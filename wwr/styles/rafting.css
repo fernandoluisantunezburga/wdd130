@@ -87,3 +87,11 @@ footer p {
 .socialmedia img {
     width: 30px;
 }
+
+nav a {
+    color: var(--primary-color);
+}
+
+nav a:hover {
+    color: var(--accent2-color);
+}
