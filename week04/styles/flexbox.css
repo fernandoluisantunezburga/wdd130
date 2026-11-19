@@ -20,13 +20,14 @@ body {
 }
 
 .item1 {
-    min-height: 100px;
+    min-height: 250;
 }
 
 .item2 {
-    min-height: 200px;
+    min-height: 270;
 }
 
 .item3 {
     min-height: 300px;
 }
+
